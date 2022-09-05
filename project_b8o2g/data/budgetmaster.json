@@ -1,0 +1,121 @@
+{
+    "totalBudget": 3000,
+    "budget categories": [
+        {
+            "entries": [{
+                "date": "9/7/2022",
+                "amount": 2000,
+                "notes": "kickass",
+                "dateID": 20220709,
+                "label": "laptop"
+            }],
+            "title": "Education",
+            "budgetMax": 3000,
+            "budgetUsed": 2000
+        },
+        {
+            "entries": [{
+                "date": "31/12/2021",
+                "amount": 299,
+                "notes": "I hope my mom doesn't see this...",
+                "dateID": 20211231,
+                "label": "Power Puff Girls IRL Concert"
+            }],
+            "title": "Entertainment",
+            "budgetMax": 0,
+            "budgetUsed": 299
+        },
+        {
+            "entries": [],
+            "title": "Food & Household Items",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [{
+                "date": "20/12/2021",
+                "amount": 1000,
+                "notes": "insurance",
+                "dateID": 20211220,
+                "label": "Medical Insurance"
+            }],
+            "title": "Health",
+            "budgetMax": 0,
+            "budgetUsed": 1000
+        },
+        {
+            "entries": [],
+            "title": "Housing",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Investments & Savings",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [{
+                "date": "3/3/2021",
+                "amount": 300,
+                "notes": "Bet it all on lucky #7... #7 turned out not to be so lucky",
+                "dateID": 20210303,
+                "label": "Gambling Debt"
+            }],
+            "title": "Loans & Debt",
+            "budgetMax": 0,
+            "budgetUsed": 300
+        },
+        {
+            "entries": [],
+            "title": "Other & Miscellaneous",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Personal",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [{
+                "date": "2/2/2020",
+                "amount": 1200,
+                "notes": "ayyyyy",
+                "dateID": 20200202,
+                "label": "Roadtrip!!!"
+            }],
+            "title": "Transportation",
+            "budgetMax": 0,
+            "budgetUsed": 1200
+        },
+        {
+            "entries": [{
+                "date": "4/10/2022",
+                "amount": 200,
+                "notes": "Hydro now owns my house",
+                "dateID": 20221004,
+                "label": "Hydro"
+            }],
+            "title": "Utilities",
+            "budgetMax": 0,
+            "budgetUsed": 200
+        },
+        {
+            "entries": [{
+                "date": "15/8/2022",
+                "amount": 5000,
+                "notes": "Resort in Mozambique",
+                "dateID": 20220815,
+                "label": "Mozambique "
+            }],
+            "title": "Vacation",
+            "budgetMax": 0,
+            "budgetUsed": 5000
+        }
+    ],
+    "name": "test",
+    "totalExpenses": 0
+}

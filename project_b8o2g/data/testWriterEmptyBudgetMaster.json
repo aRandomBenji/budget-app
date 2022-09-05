@@ -1,0 +1,79 @@
+{
+    "totalBudget": 0,
+    "budget categories": [
+        {
+            "entries": [],
+            "title": "Education",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Entertainment",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Food & Household Items",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Health",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Housing",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Investments & Savings",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Loans & Debt",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Other & Miscellaneous",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Personal",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Transportation",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Utilities",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        },
+        {
+            "entries": [],
+            "title": "Vacation",
+            "budgetMax": 0,
+            "budgetUsed": 0
+        }
+    ],
+    "name": "test1",
+    "totalExpenses": 0
+}
